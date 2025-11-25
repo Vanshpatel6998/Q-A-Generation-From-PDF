@@ -1,2 +1,3 @@
-vin
-pyvenv
+vin/
+*.pyc
+__pycache__/
