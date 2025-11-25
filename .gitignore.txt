@@ -1,4 +1,3 @@
-vin/
-__pycache__/
+vin/Scripts/__pycache__/
 *.pyc
 .DS_Store
